@@ -6,7 +6,7 @@ I build practical software with an emphasis on readable code, reliable automatio
 
 ## Current Focus
 
-- Strengthening project quality across fullstack-fastapi-dashboard-pro, github-agent, engineering-cli-log-auditor-pro.
+- Strengthening project quality across fastapi-production-backend, fullstack-fastapi-dashboard-pro, github-agent.
 - Building practical experience in Python, JavaScript, HTML.
 - Keeping repositories easy to run, understand, test, and maintain.
 
@@ -18,10 +18,10 @@ I build practical software with an emphasis on readable code, reliable automatio
 
 | Project | What it shows |
 | --- | --- |
+| [Fastapi Production Backend](https://github.com/atharvasawant-dev/fastapi-production-backend) | Production-grade FastAPI backend with modular architecture, CI/CD, logging, and testing. Built with Python. |
 | [Fullstack Fastapi Dashboard Pro](https://github.com/atharvasawant-dev/fullstack-fastapi-dashboard-pro) | Full-stack FastAPI dashboard with REST APIs and modular architecture. Built with Python. |
 | [Github Agent](https://github.com/atharvasawant-dev/github-agent) | Autonomous GitHub profile manager agent Built with Python. |
 | [Engineering Cli Log Auditor Pro](https://github.com/atharvasawant-dev/engineering-cli-log-auditor-pro) | Engineering CLI tool for structured logging, anomaly detection, and reporting. Built with Python. |
-| [Fastapi Production Backend](https://github.com/atharvasawant-dev/fastapi-production-backend) | Production-grade FastAPI backend with modular architecture, CI/CD, logging, and testing. Built with Python. |
 | [Grow Karo App](https://github.com/atharvasawant-dev/grow-karo-app) | AI-powered stock advisory platform that helps investors discover opportunities, analyze stocks, and make informed investment decisions. Built with Kotlin. |
 | [Production Fastapi Service 2](https://github.com/atharvasawant-dev/production-fastapi-service-2) | Production-grade FastAPI service with modular architecture, validation, and testing Built with Python. |
 
@@ -43,4 +43,4 @@ I build practical software with an emphasis on readable code, reliable automatio
 
 - Open to collaboration on practical software, automation, and product-focused engineering.
 
-<!-- profile-builder:last-reviewed=2026-08-16 -->
+<!-- profile-builder:last-reviewed=2026-08-17 -->
