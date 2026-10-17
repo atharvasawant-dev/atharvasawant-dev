@@ -1,46 +1,96 @@
-# Hi, I'm atharvasawant-dev
+# Hi, I'm Atharva Sawant
 
-Software developer focused on practical, production-minded engineering.
+**Information Technology Engineering Student | Full-Stack Developer | Backend & AI Projects**
 
-I build practical software with an emphasis on readable code, reliable automation, clear documentation, and maintainable project structure. This profile is kept current with focused improvements across active repositories.
+I build practical software applications using modern web technologies, backend APIs, databases, and automation. I focus on solving real-world problems and improving projects through testing, documentation, and deployment.
 
-## Current Focus
+- Exploring backend engineering, full-stack development, and AI-powered applications.
+- Interested in software engineering internships and open-source collaboration.
+- Focused on building useful, maintainable, and demonstrable software.
 
-- Strengthening project quality across github-agent, engineering-cli-log-auditor-pro, fastapi-production-backend.
-- Building practical experience in Python, JavaScript, HTML.
-- Keeping repositories easy to run, understand, test, and maintain.
+## Tech Stack
 
-## Skills and Tech Stack
+**Languages:** Python, JavaScript, Dart
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-555555?style=for-the-badge) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+**Backend & APIs:** FastAPI, Node.js, Express.js, REST APIs
+
+**Frontend & Mobile:** React, React Native, Expo, Flutter
+
+**Databases:** MongoDB, Firebase, SQLite
+
+**Tools & Deployment:** Git, GitHub Actions, Render, MongoDB Atlas
 
 ## Featured Projects
 
-| Project | What it shows |
-| --- | --- |
-| [Github Agent](https://github.com/atharvasawant-dev/github-agent) | Autonomous GitHub profile manager agent Built with Python. |
-| [Engineering Cli Log Auditor Pro](https://github.com/atharvasawant-dev/engineering-cli-log-auditor-pro) | Engineering CLI tool for structured logging, anomaly detection, and reporting. Built with Python. |
-| [Fastapi Production Backend](https://github.com/atharvasawant-dev/fastapi-production-backend) | Production-grade FastAPI backend with modular architecture, CI/CD, logging, and testing. Built with Python. |
-| [Fullstack Fastapi Dashboard Pro](https://github.com/atharvasawant-dev/fullstack-fastapi-dashboard-pro) | Full-stack FastAPI dashboard with REST APIs and modular architecture. Built with Python. |
-| [Grow Karo App](https://github.com/atharvasawant-dev/grow-karo-app) | AI-powered stock advisory platform that helps investors discover opportunities, analyze stocks, and make informed investment decisions. Built with Kotlin. |
-| [Production Fastapi Service 2](https://github.com/atharvasawant-dev/production-fastapi-service-2) | Production-grade FastAPI service with modular architecture, validation, and testing Built with Python. |
+### 1. Civic Sense — Civic Issue Reporting Platform
 
-## Engineering Habits
+A full-stack web application that helps citizens report local civic problems and follow their status.
 
-- Write small, reviewable commits with clear conventional messages.
-- Keep READMEs, setup steps, and project structure aligned with the code.
-- Prefer simple automation, useful tests, and reliable CI over flashy but fragile changes.
-- Improve existing repositories before creating new ones.
+- Built with React, Node.js, Express.js, and MongoDB.
+- Includes user authentication, issue reporting, and community interactions.
+- Deployed frontend and backend services.
 
-## GitHub Activity
+**[Source Code](https://github.com/atharvasawant-dev/Civic-sense)** · **[Live Demo](https://civic-sense-1-agud.onrender.com)**
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=atharvasawant-dev&show_icons=true&theme=default&hide_border=true" alt="atharvasawant-dev GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvasawant-dev&layout=compact&theme=default&hide_border=true" alt="atharvasawant-dev top languages" />
-</p>
+### 2. FoodScanner AI — Nutrition Intelligence
 
-## Contact
+A food-scanning application designed to help users understand packaged food nutrition and ingredients.
 
-- Open to collaboration on practical software, automation, and product-focused engineering.
+- FastAPI backend with an Expo React Native client.
+- Barcode and product lookup workflows.
+- Nutrition analysis and health-focused recommendations.
+- Hosted application and API documentation.
 
-<!-- profile-builder:last-reviewed=2026-08-20 -->
+**[Source Code](https://github.com/atharvasawant-dev/ml-scanner-project)** · **[Live App](https://foodscanner-mobile.onrender.com)** · **[API Documentation](https://foodscanner-ai.onrender.com/docs)**
+
+### 3. Kamai — Gig Worker Earnings Tracker
+
+A mobile-first progressive web app that helps gig workers estimate their real earnings after fuel costs.
+
+- Calculates earnings per hour after estimated fuel expenses.
+- Tracks orders, distance, duration, and earnings.
+- Provides weekly summaries and configurable fuel and mileage settings.
+- Supports JSON export/import and offline use.
+
+**[Source Code](https://github.com/atharvasawant-dev/kamai)**
+
+### 4. GitHub Agent — Repository Automation
+
+A Python project for automating GitHub profile and repository maintenance tasks.
+
+- Repository analysis and documentation workflows.
+- Configurable automation with dry-run support.
+- GitHub Actions integration.
+- Repository health checks.
+
+**[Source Code](https://github.com/atharvasawant-dev/github-agent)**
+
+### 5. Voting App — Flutter & Firebase
+
+A Flutter application project configured with Firebase Authentication and Cloud Firestore.
+
+**[Source Code](https://github.com/atharvasawant-dev/voting-app)**
+
+## Engineering Interests
+
+- Backend development and REST API design
+- Database integration and authentication
+- Automated testing and CI/CD
+- Software reliability and maintainability
+- AI-powered application development
+- Deployment and developer tooling
+
+## How I Build
+
+- Keep code readable and changes focused.
+- Document setup instructions and configuration.
+- Use version control and automated checks where appropriate.
+- Improve projects through testing and iteration.
+- Prioritize working features over unsupported claims.
+
+## Connect With Me
+
+**GitHub:** [atharvasawant-dev](https://github.com/atharvasawant-dev)
+
+Open to software engineering internships, collaborative projects, and open-source contributions.
+
