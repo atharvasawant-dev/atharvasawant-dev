@@ -54,20 +54,12 @@ A mobile-first progressive web app that helps gig workers estimate their real ea
 
 **[Source Code](https://github.com/atharvasawant-dev/kamai)**
 
-### 4. GitHub Agent — Repository Automation
+### 4. Voting App — Flutter & Firebase
 
-A Python project for automating GitHub profile and repository maintenance tasks.
+A Flutter and Firebase election app with one-vote-per-user enforced by a Firestore transaction and live results.
 
-- Repository analysis and documentation workflows.
-- Configurable automation with dry-run support.
-- GitHub Actions integration.
-- Repository health checks.
-
-**[Source Code](https://github.com/atharvasawant-dev/github-agent)**
-
-### 5. Voting App — Flutter & Firebase
-
-A Flutter application project configured with Firebase Authentication and Cloud Firestore.
+- Firebase Authentication and Cloud Firestore with security rules.
+- Known limitations (client-side admin check, permissive rules) are documented in the repository.
 
 **[Source Code](https://github.com/atharvasawant-dev/voting-app)**
 
